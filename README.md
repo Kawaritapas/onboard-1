@@ -15,5 +15,5 @@ you are goog to go!<br>
 #samples of API and screenshot of browser<br>
 1]API http://localhost:3002/google - google signin page<br>
 2]API http://localhost:3002/user - user object <br>
-![Screenshot from 2021-03-08 01-13-04](https://user-images.githubusercontent.com/35592842/110252676-89ec4f80-7fac-11eb-8768-77b7362ff02a.png) <br>
+<br>
 
