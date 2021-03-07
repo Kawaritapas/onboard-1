@@ -2,8 +2,8 @@
 
 To get started 
 #server
-1]cd into server then hit npm install to install all packages
-2]node server.js to start server (install mongodb for the application to work on your system)
+1][cd into server then hit npm install to install all packages]
+2][node server.js to start server (install mongodb for the application to work on your system)]
 
 #client
 1]cd into client then hit npm install to install all packages
